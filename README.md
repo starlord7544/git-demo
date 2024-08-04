@@ -22,10 +22,8 @@ git push origin main    --> push local commit stuff to online/remote git repo at
 git init                --> used to create a new git repo <br>
 <ul>
     <li> git remote add origin <- link -> </li>
-    <li> (to verify remote) </li>
-    <li> git remote -v </li>
-    <li> git branch </li>
-    <li> (to check branch) </li>
-    <li> git branch -M main (to rename branch) </li>
+    <li> git remote -v    --> to verify remote </li>
+    <li> git branch     --> to check branch </li>
+    <li> git branch -M main -->(to rename branch) </li>
     <li> git push origin main </li>
 </ul>
